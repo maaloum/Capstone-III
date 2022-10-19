@@ -1,0 +1,50 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color:#D8F1A0;
+  row-gap: 0;
+  padding: 2rem  3rem;
+}
+
+.container img {
+  width: 80%;
+  max-width: 600px;
+}
+
+.container h1{
+    color: #000000;
+    font-size: 3rem;
+    font-weight: 700;
+
+
+}
+.container h2 {
+  color: #000;
+  font-size: 2.5rem;
+  font-weight: 700;
+}
+
+.container div {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container div:nth-child(odd) {
+  background-color: #697268;
+}
+
+.container div:nth-child(even) {
+  background-color: #95A3A4;
+}
+
+.container div span {
+  font-size: large;
+  color: white;
+  flex-grow: 1;
+  padding: 2rem 2rem;
+  box-sizing: border-box;
+}
