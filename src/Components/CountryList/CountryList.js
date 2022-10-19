@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import CountryItem from '../CountryItem/CountryItem';
-import style from './style.module.css';
+import style from './CountryList.module.css';
 
 function CountryList(props) {
   const { countries } = props;
