@@ -1,62 +1,73 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# Countries Infos
 
-# Project Name
+> Countries Infos is a a React and Redux SPA application that dispalys interesting information about various countries in the world.
+> It fetchs all the information that it displays using API request to a server (https://restcountries.com).
 
-> Description the project.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- React
+- Redux toolkit
+- CSS
 
-## Live Demo (if available)
+## Dev Dependencies
 
-[Live Demo Link](https://livedemo.com)
+- React-routerDOM
+- Axios
+- Redux-toolkit
+- React-test-renderer
+- createAsyncThunk
 
+## Live Demo
+
+- live demo: [Click here](https://6350036769ae9f160842f31c--musical-kitsune-a1d0c0.netlify.app/)
+
+### Video Link
+
+- [Click here](https://drive.google.com/file/d/1okzf6kBq-Jix3BmyIUbk_iKrl_v4HzXz/view?usp=sharing)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+To get a local copy up and running follow these simple steps:
 
+- Copy this link `https://github.com/maaloum/Capstone-III.git`.
+- Get the directory that you want to clone the repository.
+- Open the command prompt in this directory.
+- Write `git clone https://github.com/maaloum/Capstone-III.git`.
+- Go to the repository folder in your command prompt, run `cd name-of-folder`.
+- Run `npm install`
 
-To get a local copy up and running follow these simple example steps.
+### Build
 
-### Prerequisites
+Type these commands into the terminal:
 
-### Setup
+- npm run build
+- Open dist/index.html in your web browser.
 
-### Install
+### Run the application in local environment
 
-### Usage
+Type this command in your terminal
+
+- npm run start
+- Your web browser will open on localhost
 
 ### Run tests
 
-### Deployment
+Type this command into the terminal:
 
+- npm run test
 
+## Author
 
-## Authors
+👤 **Ely Cheick Maaloum**
 
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Maaloum](https://github.com/maaloum)
+- LinkedIn: [maaloum](https://www.linkedin.com/in/ely-cheikh-maaloum-075a79135/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
+Contributions, [issues](https://github.com/yasinabdmahmood/Country-facts/issues), and feature requests are welcome!
 
 ## Show your support
 
@@ -64,12 +75,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- [Countries API](https://restcountries.com/v3.1/all).
+- [ Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for the amazing [on Behance](<https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)>)
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is not licensed.
