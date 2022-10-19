@@ -25,7 +25,7 @@
 
 ### Video Link
 
-- [Click here]()
+- [Click here](https://drive.google.com/file/d/1okzf6kBq-Jix3BmyIUbk_iKrl_v4HzXz/view?usp=sharing)
 
 ## Getting Started
 
