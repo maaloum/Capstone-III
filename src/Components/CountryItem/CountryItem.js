@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { useDispatch } from 'react-redux';
 import { Link } from 'react-router-dom';
 import { getDetials } from '../../redux/detailsReducer/detailsReducer';
-import style from './style.module.css';
+import style from './Country.module.css';
 import spareFlag from '../../assets/images/spareFalg.svg';
 import arrow from '../../assets/images/arrow.svg';
 

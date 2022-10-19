@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { getCountries } from '../../redux/contries/countries';
+import { getCountries } from '../../redux/Countries/countries';
 import CountryList from '../CountryList/CountryList';
 import style from './Home.module.css';
 
