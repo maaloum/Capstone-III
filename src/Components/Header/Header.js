@@ -12,7 +12,7 @@ function Header() {
       <Link to="/" data-testid="go-to-home">
         <img src={left} alt="left arrow" />
       </Link>
-      <span className= {style.title} >All Contires</span>
+      <span className={style.title}>All Contires</span>
       <div className={style.icons}>
         <img src={mic} alt="microphone" />
         <img src={threeDots} alt="three dots" />
