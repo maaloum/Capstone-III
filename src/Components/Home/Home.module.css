@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 
 .dropDown {
-  background-color:#D8F1A0;
+  background-color: #d8f1a0;
   display: flex;
-  justify-content:center;
+  justify-content: center;
   align-items: center;
   padding: 2rem;
 }
