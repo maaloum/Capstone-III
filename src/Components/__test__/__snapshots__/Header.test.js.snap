@@ -16,10 +16,14 @@ Array [
         src="leftArrow.svg"
       />
     </a>
-    <span>
-      Country facts
+    <span
+      className="title"
+    >
+      All Contires
     </span>
-    <div>
+    <div
+      className="icons"
+    >
       <img
         alt="microphone"
         src="mic.svg"

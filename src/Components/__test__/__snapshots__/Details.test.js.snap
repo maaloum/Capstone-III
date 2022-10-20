@@ -5,6 +5,9 @@ exports[`Check if the component has changed 1`] = `
   className="container"
   data-testid="details-container"
 >
+  <h1>
+     Country Deatils
+  </h1>
   <img
     alt="Flag"
   />

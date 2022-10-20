@@ -11,7 +11,7 @@ Array [
       data-testid="component-container"
       style={
         Object {
-          "backgroundColor": "rgb(65,104,177)",
+          "backgroundColor": "#95A3A4",
         }
       }
     >
@@ -52,7 +52,7 @@ Array [
       data-testid="component-container"
       style={
         Object {
-          "backgroundColor": "rgb(63,98,166)",
+          "backgroundColor": "#697268",
         }
       }
     >
